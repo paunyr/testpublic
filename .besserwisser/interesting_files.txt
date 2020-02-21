@@ -1,3 +1,2 @@
 testfile1.py
 testfile2.js
-testfile3.c
