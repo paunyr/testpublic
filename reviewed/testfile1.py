@@ -1,6 +1,1 @@
-# testing
-
-import datetime
-
-for i in range(1,5):
-    print("hej"*i)
+378d410
